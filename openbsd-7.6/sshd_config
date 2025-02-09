@@ -47,4 +47,3 @@ AcceptEnv RUNNER_NAME
 AcceptEnv RUNNER_OS
 AcceptEnv RUNNER_TEMP
 AcceptEnv RUNNER_TOOL_CACHE
-AcceptEnv FOO 

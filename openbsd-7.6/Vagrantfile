@@ -72,6 +72,5 @@ Vagrant.configure("2") do |config|
     "RUNNER_OS",
     "RUNNER_TEMP",
     "RUNNER_TOOL_CACHE",
-    "FOO",
   ]
 end
