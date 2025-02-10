@@ -8,7 +8,7 @@ source "virtualbox-iso" "default" {
 
   iso_url       = "https://cdn.openbsd.org/pub/OpenBSD/7.6/amd64/install76.iso"
   iso_checksum  = "file:https://cdn.openbsd.org/pub/OpenBSD/7.6/amd64/SHA256"
-  iso_interface	= "sata"
+  iso_interface = "sata"
 
   guest_os_type = "OpenBSD_64"
 
