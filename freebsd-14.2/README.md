@@ -1,9 +1,9 @@
 # FreeBSD 13.0
 
 - User: root
-- vCPU: 2
-- RAM: 12 GiB
-- Storage: 10 GiB
+- vCPU: 4
+- RAM: 15 GiB
+- Storage: 14 GiB
 
 ### Included packages
 
@@ -15,7 +15,3 @@
 - libtool
 - meson
 - pkgconf
-
-### Customizations
-
-- The default shell for `root` is `/bin/sh`.
