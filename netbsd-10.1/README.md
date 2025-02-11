@@ -1,9 +1,9 @@
 # NetBSD 9.2
 
 - User: root
-- vCPU: 2
-- RAM: 12 GiB
-- Storage: 10 GiB
+- vCPU: 4
+- RAM: 15 GiB
+- Storage: 14 GB
 
 ### Included packages
 
